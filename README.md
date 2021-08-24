@@ -2,7 +2,7 @@
 
 INSTRUCTIONS :- solve the below questions by using only numpy and pandas libraries
 
-1)Generate an array of zeroes using inbuilt numpy function.
+1) Generate an array of zeroes using inbuilt numpy function.
 
 2) Run the given code and find the dot product of both arrays.  
 
